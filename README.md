@@ -22,7 +22,7 @@ The project displays different news sections with a clean and responsive design.
 ## ▶️ How to Run
 1. Download or clone the repository:
 ```bash
-git clone https://github.com/Manalmortada/PaintBrush_Java_Project
+git clone https://github.com/Manalmortada/PaintBrush_Java_Project.git
 
 ## 📸 Sketch on Figma
 https://www.figma.com/design/IR4536gEJ0Z8mmWh0EuLMV/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85?node-id=0-1&p=f
