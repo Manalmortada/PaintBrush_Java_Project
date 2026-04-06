@@ -1,31 +1,50 @@
-# 📰 News Website Project
+# 🎨 Java Paint Brush Application
 
 ## 📖 Description
-This is a simple news website built using HTML and CSS.  
-The project displays different news sections with a clean and responsive design.
+This project is a simple Paint Brush desktop application built using Java.  
+It allows users to draw different shapes with multiple colors and supports both outlined and filled shapes.
+
+The application provides a basic drawing experience similar to classic paint tools.
 
 ## 🚀 Features
-- 🏠 Home page with latest news
-- 📰 Multiple news sections (e.g. اقتصاد, سياسة)
-- 🎨 Responsive and modern UI design
+- ✏️ Draw different shapes:
+  - Line
+  - Rectangle
+  - Square
+  - Circle
+- 🎨 Choose from multiple colors
+- 🟥 Draw filled shapes with selected color
+- 🧹 Clear canvas functionality
+- 🖱️ Easy-to-use graphical interface
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
+- Java
+- Java Swing / AWT (GUI)
 
 ## 📂 Project Structure
-│── index.html
-│── style.css
-│── images/
+PaintBrush-App/
+│── src/
+│ ├── main/
+│ │ ├── PaintApp.java
+│ │ ├── DrawingPanel.java
+│ │ ├── Shape.java
+│── assets/
+│── README.md
 
 
 ## ▶️ How to Run
-1. Download or clone the repository:
+1. Clone the repository:
 ```bash
-git clone https://github.com/Manalmortada/PaintBrush_Java_Project.git
+git clone https://github.com/your-username/your-repo-name.git
+2. Open the project in IntelliJ or Eclipse
+3. Compile and run the main file
 
-## 📸 Sketch on Figma
-https://www.figma.com/design/IR4536gEJ0Z8mmWh0EuLMV/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85?node-id=0-1&p=f
+🎮 How to Use
+. Select a shape (Line, Rectangle, Square, Circle)
+. Choose a color
+. Click and drag on the canvas to draw
+. Select fill option to draw filled shapes
+. Clear the canvas when needed
 
-## 👩‍💻 Author
+👩‍💻 Author
 Manal Mortada Anwar
